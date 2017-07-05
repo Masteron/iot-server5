@@ -1,0 +1,22 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "00350e446066001e0e926e345808944b"
+build_time: [552562410, 934538000]
+inputs:
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServer.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerEx.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [552559917, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [552559917, 0]

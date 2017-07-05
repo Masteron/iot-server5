@@ -1,0 +1,271 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "mustacheHelper"
+- "Handlers"
+- "handlers"
+- "server"
+- "routes"
+provides-nominal:
+- "V10iot_server14mustacheHelper"
+- "C10iot_server8Handlers"
+provides-member:
+- ["V10iot_server14mustacheHelper", ""]
+- ["C10iot_server8Handlers", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "HTTPRequest"
+- "HTTPResponse"
+- "HTTPServer"
+- "Handlers"
+- "IntegerLiteralType"
+- "MustacheEvaluationContext"
+- "MustacheEvaluationOutputCollector"
+- "MustachePageHandler"
+- "MustacheWebEvaluationContext"
+- "Routes"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "fatalError"
+- "handlers"
+- "mustacheHelper"
+- !private "mustacheRequest"
+- "routes"
+- "server"
+depends-member:
+- ["Ps9AnyObject", "MapType"]
+- !private ["Ps9AnyObject", "MustacheEvaluationContext"]
+- ["Ps9AnyObject", "addRoutes"]
+- ["Ps9AnyObject", "documentRoot"]
+- !private ["Ps9AnyObject", "extendValues"]
+- ["Ps9AnyObject", "index"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "mustacheHelper"]
+- !private ["Ps9AnyObject", "mustacheRequest"]
+- !private ["Ps9AnyObject", "requestCompleted"]
+- ["Ps9AnyObject", "serverPort"]
+- ["Ps9AnyObject", "start"]
+- !private ["Ps9AnyObject", "webResponse"]
+- ["Ps9AnyObject", ""]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps10Collection", "subscript"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- ["Ps23CustomStringConvertible", "get"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Vs10Dictionary", "init"]
+- !private ["Vs10Dictionary", "subscript"]
+- ["Ps9Equatable", "get"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["O11PerfectHTTP10HTTPMethod", "get"]
+- !private ["P11PerfectHTTP11HTTPRequest", "documentRoot"]
+- !private ["P11PerfectHTTP12HTTPResponse", "appendBody"]
+- !private ["P11PerfectHTTP12HTTPResponse", "completed"]
+- ["C17PerfectHTTPServer10HTTPServer", "addRoutes"]
+- ["C17PerfectHTTPServer10HTTPServer", "documentRoot"]
+- ["C17PerfectHTTPServer10HTTPServer", "init"]
+- ["C17PerfectHTTPServer10HTTPServer", "serverPort"]
+- ["C17PerfectHTTPServer10HTTPServer", "start"]
+- ["C10iot_server8Handlers", "HTTPRequest"]
+- ["C10iot_server8Handlers", "HTTPResponse"]
+- !private ["C10iot_server8Handlers", "MustacheEvaluationContext"]
+- ["C10iot_server8Handlers", "deinit"]
+- ["C10iot_server8Handlers", "index"]
+- ["C10iot_server8Handlers", "init"]
+- !private ["C10iot_server8Handlers", "mustacheHelper"]
+- !private ["C10iot_server8Handlers", "mustacheRequest"]
+- ["Ps8Hashable", "get"]
+- ["Ps8Hashable", "init"]
+- ["P10PerfectLib15JSONConvertible", "init"]
+- !private ["P10PerfectLib15JSONConvertible", "subscript"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["C15PerfectMustache25MustacheEvaluationContext", "MapType"]
+- !private ["C15PerfectMustache25MustacheEvaluationContext", "extendValues"]
+- !private ["C15PerfectMustache25MustacheEvaluationContext", "requestCompleted"]
+- !private ["C15PerfectMustache25MustacheEvaluationContext", "webResponse"]
+- ["P15PerfectMustache19MustachePageHandler", "extendValuesForResponse"]
+- !private ["P15PerfectMustache19MustachePageHandler", "init"]
+- !private ["P15PerfectMustache19MustachePageHandler", "values"]
+- ["P15PerfectMustache19MustachePageHandler", ""]
+- !private ["C15PerfectMustache28MustacheWebEvaluationContext", "extendValues"]
+- !private ["C15PerfectMustache28MustacheWebEvaluationContext", "requestCompleted"]
+- !private ["C15PerfectMustache28MustacheWebEvaluationContext", "webResponse"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["V11PerfectHTTP6Routes", "add"]
+- ["V11PerfectHTTP6Routes", "init"]
+- !private ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "subscript"]
+- ["P17PerfectHTTPServer14ServerInstance", "addRoutes"]
+- ["P17PerfectHTTPServer14ServerInstance", "documentRoot"]
+- ["P17PerfectHTTPServer14ServerInstance", "init"]
+- ["P17PerfectHTTPServer14ServerInstance", "serverPort"]
+- ["P17PerfectHTTPServer14ServerInstance", "start"]
+- ["Vs12StaticString", "init"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "get"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps10_Indexable", "init"]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "init"]
+- !private ["Ps14_IndexableBase", "subscript"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- ["V10iot_server14mustacheHelper", "MustacheEvaluationContext"]
+- ["V10iot_server14mustacheHelper", "MustacheEvaluationOutputCollector"]
+- ["V10iot_server14mustacheHelper", "MustacheWebEvaluationContext"]
+- ["V10iot_server14mustacheHelper", "deinit"]
+- ["V10iot_server14mustacheHelper", "extendValuesForResponse"]
+- ["V10iot_server14mustacheHelper", "init"]
+- ["V10iot_server14mustacheHelper", "values"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- "Ps9Equatable"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "O11PerfectHTTP10HTTPMethod"
+- !private "P11PerfectHTTP11HTTPRequest"
+- !private "P11PerfectHTTP12HTTPResponse"
+- "C17PerfectHTTPServer10HTTPServer"
+- "C10iot_server8Handlers"
+- "Ps8Hashable"
+- "P10PerfectLib15JSONConvertible"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "C15PerfectMustache25MustacheEvaluationContext"
+- "P15PerfectMustache19MustachePageHandler"
+- !private "C15PerfectMustache28MustacheWebEvaluationContext"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "V11PerfectHTTP6Routes"
+- !private "Ps8Sequence"
+- "P17PerfectHTTPServer14ServerInstance"
+- "Vs12StaticString"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- "Ps21_ObjectiveCBridgeable"
+- "V10iot_server14mustacheHelper"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectHTTP.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectLib.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectThread.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectMustache.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectCrypto.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectHTTPServer.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../asn1.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../tls1.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dtls1.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl2.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem2.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../e_os2.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl23.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl3.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pkcs7.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../sha.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dsa.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdsa.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rsa.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zlib.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/czlib.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../obj_mac.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../hmac.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ec.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../rand.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pqueue.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslconf.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zconf.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../dh.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ecdh.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../lhash.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../stack.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../safestack.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../zutil.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ssl.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../kssl.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/openssl.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../pem.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bn.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../bio.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../crypto.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../comp.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../srtp.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../evp.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../ossl_typ.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../buffer.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../err.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/../inftrees.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../symhacks.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../objects.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../opensslv.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/../x509_vfy.h"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-COpenSSL.git--4744624199947727386/COpenSSL/include/module.modulemap"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCZlib/include/module.modulemap"
+- "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTPServer.git--6671958091389663080/Sources/PerfectCHTTPParser/include/module.modulemap"
+interface-hash: "0138fdaae39406456344921139e7e168"

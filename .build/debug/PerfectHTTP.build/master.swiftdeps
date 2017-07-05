@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "fadd45335d38ea96b4ce18256e8dbb63"
+build_time: [552562406, 193692000]
+inputs:
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPFilter.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPHeaders.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPMethod.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPRequest.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/HTTPResponse.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeReader.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/MimeType.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/Routing.swift": [552559918, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-HTTP.git--6392294032632002019/Sources/StaticFileHandler.swift": [552559918, 0]

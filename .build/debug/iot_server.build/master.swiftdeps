@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "95f7de9d4d9549068328e54d35b7c1a8"
+build_time: [552598718, 723609000]
+inputs:
+  "/Users/pasynkov/Desktop/iot-server5/Sources/main.swift": [552598700, 0]

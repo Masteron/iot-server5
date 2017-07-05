@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "d72b4880c77e74a1bfaeaca88041aa5b"
+build_time: [552562410, 505349000]
+inputs:
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Mustache.git-4271886153857801499/Sources/Mustache.swift": [552562140, 0]

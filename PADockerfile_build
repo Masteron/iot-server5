@@ -1,0 +1,7 @@
+FROM perfectlysoft/perfectassistant:3.1
+# Perfect-COpenSSL-Linux.git--3433056106668984854/PADockerfile
+RUN apt-get -y update && apt-get install -y libssl-dev
+
+# Perfect-LinuxBridge.git--8595166882999334324/PADockerfile
+RUN apt-get -y update && apt-get install -y uuid-dev
+RUN rm -rf /var/lib/apt/lists/*

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0B9B07A57A7603A158703662ACDD6F3ABAA339F4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0B9B07A57A7603A158703662ACDD6F3ABAA339F4" : 9223372036854775807,
+    "A9EECFF9405C7376AE51E27811238F18AAFC7246" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "89ABA228-3CFE-4BB4-929D-B37F8C35C228",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0B9B07A57A7603A158703662ACDD6F3ABAA339F4" : "iot-server5\/",
+    "A9EECFF9405C7376AE51E27811238F18AAFC7246" : "iot-server5\/.build\/checkouts\/Perfect-Mustache.git-4271886153857801499\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iot-server5",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iot-server5.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Masteron\/iot-server.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0B9B07A57A7603A158703662ACDD6F3ABAA339F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/pasynkov\/Desktop\/iot-server5\/.build\/repositories\/Perfect-Mustache.git-4271886153857801499",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A9EECFF9405C7376AE51E27811238F18AAFC7246"
+    }
+  ]
+}

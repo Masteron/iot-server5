@@ -1,0 +1,4 @@
+dependencies: \
+  /perfectbuild/.build_lin/checkouts/Perfect-COpenSSL.git--2995561105487028948/COpenSSL/rsaz_exp.c \
+  /perfectbuild/.build_lin/checkouts/Perfect-COpenSSL.git--2995561105487028948/COpenSSL/include/module.modulemap \
+  /perfectbuild/.build_lin/checkouts/Perfect-COpenSSL.git--2995561105487028948/COpenSSL/rsaz_exp.h

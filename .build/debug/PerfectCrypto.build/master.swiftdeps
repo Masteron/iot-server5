@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4ae56a594c83253c9986e0ec631000f8"
+build_time: [552562379, 821568000]
+inputs:
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/Algorithms.swift": [552559920, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/ByteIO.swift": [552559920, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/Extensions.swift": [552559920, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/JWT.swift": [552559920, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/Keys.swift": [552559920, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/OpenSSLInternal.swift": [552559920, 0]
+  "/Users/pasynkov/Desktop/iot-server5/.build/checkouts/Perfect-Crypto.git--5196635702121641122/Sources/PerfectCrypto.swift": [552559920, 0]

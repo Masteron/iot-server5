@@ -1,0 +1,99 @@
+
+
+body{
+    margin: 0px;
+}
+
+#div_1{
+    background-color: #008500;
+    height: 90px;
+    overflow-y: hidden;
+    padding-top: 15px;
+    position: absolute;
+    width: 100%;
+}
+
+#devices{
+    color: rgb(255, 255, 255);
+    font-family: Comfortaa;
+    font-size: 20px;
+    height: 100px;
+    left: 77.5%;
+    position: absolute;
+    text-align: justify;
+    text-decoration: none;
+    top: 10px;
+    white-space: normal;
+    width: 20%;
+}
+
+#logo{
+    height: 100px;
+    position: absolute;;
+    left: 1px;
+    width: 140px;
+}
+
+#team{
+    color: rgb(255, 255, 255);
+    font-family: Comfortaa;
+    font-size: 20px;
+    left: 50%;
+    position: absolute;
+    text-align: justify;
+    text-decoration: none;
+    top: 10px;
+    white-space: normal;
+}
+
+#news{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Comfortaa;
+    left: 25%;
+    position: absolute;
+    text-decoration: none;
+    top: 10px;
+}
+
+#clock{
+    color: rgb(255, 255, 255);
+    font-family: Comfortaa;
+    font-size: 20px;
+    right: 10px;
+    position: absolute;
+    text-align: justify;
+    top: 10px;
+}
+
+#div_2{
+    background-color: #00ae00;
+    border-top-left-radius: 25px;
+    height: 55px;
+    left: 90px;
+    position: absolute;
+    top: 50px;
+    width: calc(100vw - 90px);
+    overflow: hidden;
+}
+
+#registration{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Comfortaa;
+    right: 80px;
+    position: absolute;
+    text-decoration: none;
+    top: 10px;
+}
+
+#enter{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Comfortaa;
+    position: absolute;
+    right: 1px;
+    text-decoration: none;
+    top: 10px;
+}
+

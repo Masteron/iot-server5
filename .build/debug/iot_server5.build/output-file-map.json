@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/pasynkov/Desktop/iot-server5/.build/debug/iot_server5.build/master.swiftdeps"
+  },
+  "/Users/pasynkov/Desktop/iot-server5/Sources/main.swift": {
+    "dependencies": "/Users/pasynkov/Desktop/iot-server5/.build/debug/iot_server5.build/main.d",
+    "object": "/Users/pasynkov/Desktop/iot-server5/.build/debug/iot_server5.build/main.swift.o",
+    "swiftmodule": "/Users/pasynkov/Desktop/iot-server5/.build/debug/iot_server5.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/pasynkov/Desktop/iot-server5/.build/debug/iot_server5.build/main.swiftdeps"
+  }
+}
